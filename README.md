@@ -4,8 +4,6 @@ A Full Stack Software Developer who loves practising creativity and problem-solv
 
 ## Skillset summary
 
-*Proficiency in:*
-
 - JavaScript, TypeScript, Python.
 - React, React Native
 - Node.js, Express, MongoDB, PostgreSQL
@@ -13,7 +11,6 @@ A Full Stack Software Developer who loves practising creativity and problem-solv
 *Familiar with:* Swift, TDD (Pytest, Jest, Cypress), Figma, Webpack, Git
 
 ## Projects
-
 
 | Name | Description| Tech/tools |
 | ------------- | ------------- |------------- |
@@ -25,9 +22,6 @@ A Full Stack Software Developer who loves practising creativity and problem-solv
 | [Mesto](https://alalinaermakova.github.io/mesto-react-auth/) | Project as a simple version of Instagram (adding posts, changing avatar, likes, open pic for full screen size)  | Used React, CRA, React-Router, grid layout, adaptive design, Promises, REST API |
 | [Your Tailor](https://yourtailor.site/) | Created web-site from a scratch. Used references from other tailor services to make the design and logo in figma. Landing page with 1 JS file for accordion to display the list of services. | Css, responsive design, JS, Netlify deployment, connected custom domain |
 | [Todo List](https://todo-list-app-by-alina.netlify.app/) | Todo list for editing, deleting and creating new tasks. Resposive design. | Css, React |
-
-
-
 
 ## Experience
 
