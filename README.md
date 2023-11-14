@@ -60,6 +60,10 @@ I am enthusiastic about agile methodologies and thrive in teams that present cha
 
 ## Skills
 
+## Organisational skills
+- Proven ability to coordinate and execute tasks within deadlines, ensuring smooth workflow and project completion.
+- Experience in managing teams, conducting meetings, and facilitating effective communication among team members.
+
 ### Technical Proficiency in Frontend Development
 - Proficiency in HTML, CSS, JavaScript, TypeScript, Python and various frontend frameworks, with the ability to create responsive and user-friendly web interfaces.
 - Developed intuitive and visually appealing websites and web applications that enhance user experiences, drive engagement, and meet client or user needs. I used my Css skills and created design from the scratch in [MyPlace](https://myplace-acrry.onrender.com/), [Acebook](https://acebook-team-earth.onrender.com/), [Acebook IOS](https://github.com/aliceb91/team-dakaj-swift-acebook), [Makers BnB](https://github.com/denisecodes/makersbnb), [Bookmark](https://bookmark-app-ae.netlify.app/), [Your Tailor](https://yourtailor.site/), [My Portfolio](https://alalinaermakova.github.io/).
