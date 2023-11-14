@@ -60,7 +60,7 @@ I am enthusiastic about agile methodologies and thrive in teams that present cha
 
 ## Skills
 
-## Organisational skills
+### Organisational skills
 - Proven ability to coordinate and execute tasks within deadlines, ensuring smooth workflow and project completion.
 - Experience in managing teams, conducting meetings, and facilitating effective communication among team members.
 
