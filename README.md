@@ -1,6 +1,9 @@
 # Alina Ermakova
 
-A Full Stack Software Developer who loves practising creativity and problem-solving ability. I'm a fast learner, and I can quickly develop new skills. I'm organised and like to keep things in order. I am skilled in communication, collaboration, pair programming and technical documentation. I value agile methodologies and teams that challenge me.
+As a Junior Full Stack Software Developer, I am deeply passionate about weaving creativity into my code. My journey through Makers has honed my ability to rapidly learn and apply new skills, a testament to my adaptability in fast-paced environments. This time involved pair programming and collaborative problem-solving, where I effectively leveraged my strong communication skills to streamline development processes.
+My proficiency in Test-Driven Development demonstrates my methodical approach to coding, ensuring that I write comprehensive test cases for software reliability. Additionally, my debugging skills have been crucial in error identification and resolution, further solidifying my technical expertise.
+Yandex Practicum was pivotal in laying a solid foundation in web application development. The practice-oriented bootcamp improved my proficiency in key technologies such as HTML, CSS, JavaScript, React, and Webpack. My regular engagement in project code reviews on GitHub and use of Figma for design work show my commitment to continuous learning and collaboration.
+I am enthusiastic about agile methodologies and thrive in teams that present challenges and opportunities for growth.
 
 ## Skillset summary
 
@@ -31,15 +34,20 @@ A Full Stack Software Developer who loves practising creativity and problem-solv
 - Pair programming and collaborative problem-solving.
 - Test Driven Development (TDD) methodology with a focus on writing comprehensive test cases.
 - Effective debugging techniques and systematic error identification.
+- Engaged in agile methodology, working on short sprints to deliver diverse projects.
+- Mastered effective debugging techniques, systematically identifying and resolving errors within the existing codebase.
+- Actively improved the codebase, working with existing code and swiftly adapting to new libraries and technologies in real-time.
+
 
 ### Yandex Practicum (2021 - 2022)
 *Web Developer*
 
-- Practice-oriented bootcamp for web app development.
-- Proficiency in HTML, CSS, JavaScript, React and Webpack.
-- Support and mentorship through Slack platform.
-- Regular project code reviews on GitHub.
-- Proficient use of Figma for design work.
+- Participated in a practice-oriented bootcamp focusing on web application development.
+- Demonstrated proficiency in HTML, CSS, JavaScript, React, and Webpack technologies.
+- Leveraged support and mentorship provided through the Slack platform.
+- Contributed to and engaged in regular project code reviews on GitHub.
+- Proficiently utilised Figma for design work, contributing to project development and enhancement.
+
 
 ### Nanchang “ABIE” Training Center (2019 - 2020)
 *English Teacher*
