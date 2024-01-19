@@ -11,21 +11,21 @@ I am enthusiastic about agile methodologies and thrive in teams that present cha
 - React, React Native
 - Node.js, Express, MongoDB, PostgreSQL
 
-*Familiar with:* Swift, TDD (Pytest, Jest, Cypress), Figma, Webpack, Git
+*Familiar with:* Swift, Pytest, Jest, Cypress, Figma, Webpack, Git
 
 ## Projects
 
 | Name | Description| Tech/tools |
 | ------------- | ------------- |------------- |
-| [MyPlace](https://myplace-acrry.onrender.com/) | Final group project, we were given 2 weeks to build a webapp from scratch for tracking and sharing your travel experiences with friends from scratch. Main features: authorization, hashed passwords, map pinning, favourites, edit and delete, add frinds, see your friend's map.  | React, MongoDB, Express, Multer, Cloudinary, MapBox, Css |
+| [MyPlace](https://myplace-acrry.onrender.com/) | Final group project, we were given 2 weeks to build a web app from scratch for tracking and sharing your travel experiences with friends from scratch. Main features: authorisation, hashed passwords, map pinning, favourites, edit and delete, add friends, see your friend's map. | React, MongoDB, Express, Multer, Cloudinary, MapBox, Css |
 | [Acebook](https://acebook-team-earth.onrender.com/) |  A webapp similar to Facebook with user authorization. Project allowes users adding posts with pictures, comment on these posts, and add likes. We were givin existing backend, we could modify and extend by adding new routes and schemas using Mongoose to introduce additional features to the application. We followed an agile methodology, which involved frequent communication with the team through 2-3 calls per day, merging daily, pair-programming. | React, Node.js, Express, MongoDB, REST API, Deployment on Render, Multer, Css |
 | [Acebook IOS](https://github.com/aliceb91/team-dakaj-swift-acebook) | Within just one week of learning Swift and Swift UI, our team accomplished the development of an app that incorporated essential features: user authorization, input validation with error handling, the ability to create and post content, and seamless integration with a backend system, HTTP requests to update the app's feed page in four days. We followed an agile methodology, which involved frequent communication with the team through 2-3 calls per day, merging daily, pair-programming. | Swift, MongoDB, Express, Multer, Cloudinary |
-| [Makers BnB](https://github.com/denisecodes/makersbnb) | This project is a clone of AirBnB, completed as part of Makers Academy Bootcamp during Week 8. This web app includes authorisation, adding your place to rent with availabale dates, filter list of places by month. | Python, Pytest, Css, Flask, PostgreSQL |
+| [Makers BnB](https://github.com/denisecodes/makersbnb) | This project is a clone of AirBnB, completed as part of Makers Academy Bootcamp during Week 8. This web app includes authorisation, adding your place to rent with available dates, filter list of places by month. | Python, Pytest, Css, Flask, PostgreSQL |
 | [Bookmark](https://bookmark-app-ae.netlify.app/) | Web app that maintains a list of bookmarks (links). My design from the scratch. The user is able to add/edit/delete any link in the list. Users can remove links and clear all. It has link validation, and the list persist page reload. | React, Sass, Link Validation, Unit Tests, Pagination |
 | [Mesto](https://alalinaermakova.github.io/mesto-react-auth/) | Project as a simple version of Instagram (adding posts, changing avatar, likes, open pic for full screen size)  | Used React, CRA, React-Router, grid layout, adaptive design, Promises, REST API, CSS |
 | [Your Tailor](https://yourtailor.site/) | Created web-site from a scratch. Used references from other tailor services to make the design and logo in figma. Landing page with 1 JS file for accordion to display the list of services. | Css, responsive design, JS, Netlify deployment, connected custom domain |
 | [Todo List](https://todo-list-app-by-alina.netlify.app/) | Todo list for editing, deleting and creating new tasks. Resposive design. | React, Css |
-| [Chaptrs](https://github.com/elliepriestley/Chaptrs_Mobile_App) | App for planning and tracking your bookclubs with fellow book lovers. You can create your own bookclub, join other communities and arrange meeting to discuss a book, make notes to that particular session. | React Native, Formik, Yup, Expo, MongoDB, Express, Node, React Navigation, CSS |
+| [Chaptrs](https://github.com/elliepriestley/Chaptrs_Mobile_App) | App for planning and tracking your bookclubs with fellow book lovers. You can create your own bookclub, join other communities and arrange meeting to discuss a book, make notes to the fitire session to share your thoughts afterwards. | React Native, Formik, Yup, Expo, MongoDB, Express, Node, React Navigation, CSS |
 
 ## Experience
 
