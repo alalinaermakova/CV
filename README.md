@@ -8,7 +8,7 @@ I am enthusiastic about agile methodologies and thrive in teams that present cha
 ## Skillset summary
 
 - JavaScript, TypeScript, Python.
-- React, React Native
+- React, React Native, Next.js
 - Node.js, Express, MongoDB, PostgreSQL
 
 *Familiar with:* Swift, Pytest, Jest, Cypress, Figma, Webpack, Git
