@@ -53,11 +53,11 @@ I am enthusiastic about agile methodologies and thrive in teams that present cha
 ### Nanchang “ABIE” Training Center (2019 - 2020)
 *English Teacher*
 
-- Curriculum design with more than 300 lesson plans.
-- Leadership and problem-solving through teacher meetings.
-- Oversight of lessons and teacher plans for organization.
-- Event organization, including festivals and celebrations.
-- Management and mentoring of a team of 10 individuals.
+- Designed curriculum with more than 300 lesson plans.
+- Demonstrated leadership and problem-solving abilities during teacher meetings.
+- Supervised lessons and teacher plans for organizational efficiency.
+- Organized events, such as festivals and celebrations.
+- Managed and mentored a team of 10 individuals.
 
 ## Skills
 
